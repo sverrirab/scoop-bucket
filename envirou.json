@@ -1,0 +1,22 @@
+{
+    "version": "5.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sverrirab/envirou/releases/download/v5.1.0/envirou_5.1.0_windows_amd64.zip",
+            "bin": [
+                "envirou.exe"
+            ],
+            "hash": "33da8a5c4e987c15d0a7a7f357be498416b8a4494d3d71b914da62a69c29453f"
+        },
+        "arm64": {
+            "url": "https://github.com/sverrirab/envirou/releases/download/v5.1.0/envirou_5.1.0_windows_arm64.zip",
+            "bin": [
+                "envirou.exe"
+            ],
+            "hash": "865a1d2613cabd70db9a4e0682a9602d3b31318f519db5ac6b698d2ab7a607f5"
+        }
+    },
+    "homepage": "https://github.com/sverrirab/envirou",
+    "license": "MIT",
+    "description": "View and manage your shell environment variables"
+}
